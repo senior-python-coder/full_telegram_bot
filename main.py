@@ -16,7 +16,7 @@ import yt_dlp
 # ---------------------------
 # Config (envsiz)
 # ---------------------------
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # bu yerga bot tokeningizni yozing
+BOT_TOKEN = "8389267896:AAFKVW35hSTYKh90HZiQ3uV1VaGWNjWdQ5k"  # bu yerga bot tokeningizni yozing
 TELEGRAM_MAX_SIZE = 2 * 1024 * 1024 * 1024  # ~2GB
 
 # URL aniqlash
