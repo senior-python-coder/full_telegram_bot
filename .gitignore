@@ -1,0 +1,45 @@
+# Python general
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+env.old/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+
+# Test and temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# yt-dlp downloaded files
+*.mp3
+*.mp4
+*.webm
+*.mkv
+*.part
+*.ytdl
+
+# Hosting configuration (Railway / Render / others)
+.env
+*.env
+.env.*
